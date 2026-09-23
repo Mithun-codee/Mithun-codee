@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mithun N</h1>
+<h1 align="center">Hi , I'm Mithun N</h1>
 <h3 align="center">A passionate Cloud and Devops fresher from India</h3>
 
-- 🌱 I’m currently learning **Services in AWS**
+-  I’m currently learning **Services in AWS**
 
-- 👯 I’m looking to collaborate on **Cloud projects**
+-  I’m looking to collaborate on **Cloud projects**
 
-- 🤝 I’m looking for help with **Cloud and Devops**
+-  I’m looking for help with **Cloud and Devops**
 
-- 💬 Ask me about **Linux,Git,Python,cloud,Devops,C++,SQL,**
+-  Ask me about **Linux,Git,Python,cloud,Devops,C++,SQL,**
 
-- 📫 How to reach me **mithhhunn@gmail.com**
+-  How to reach me **mithhhunn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
