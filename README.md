@@ -56,7 +56,7 @@ I'm currently looking for **Data Analyst, Junior Data Analyst, Data Analytics In
 
 ###  Connect With Me
 
-- 💼 LinkedIn: [Mithun N](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: https://www.linkedin.com/in/mithun-n-4647a5293/
 - 📧 Email: YOUR_EMAIL
 
 ---
