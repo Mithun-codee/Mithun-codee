@@ -1,20 +1,64 @@
-<h1 align="center">Hi , I'm Mithun N</h1>
-<h3 align="center">A passionate Cloud and Devops fresher from India</h3>
+# Hi, I'm Mithun N 
 
--  I’m currently learning **Services in AWS**
+### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
--  I’m looking to collaborate on **Cloud projects**
+I'm a BCA graduate with a background in Cloud Computing and a growing focus on **Data Analytics**.
 
--  I’m looking for help with **Cloud and Devops**
+I’m currently building hands-on skills in **Excel, SQL, Power BI, and Python**, with a focus on transforming raw data into meaningful insights and interactive dashboards.
 
--  Ask me about **Linux,Git,Python,cloud,Devops,C++,SQL,**
+###  What I'm Currently Working On
 
--  How to reach me **mithhhunn@gmail.com**
+-  Data Analysis using Excel and SQL
+-  Creating interactive dashboards with Power BI
+-  Data analysis using Python
+-  Data cleaning and preprocessing
+-  Exploratory Data Analysis (EDA)
+-  Developing portfolio projects using real-world datasets
+-  Building on my previous Cloud Computing experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mithun-n-4647a5293/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG4TexqW%2FQlK74MfiuLzwcA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mithun-n-4647a5293/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG4TexqW%2FQlK74MfiuLzwcA%3D%3D" height="30" width="40" /></a>
-</p>
+### 🛠️ Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Data Analytics**
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+**Databases**
+- MySQL
+- SQL
+
+**Cloud & Other Technologies**
+- AWS
+- Microsoft Azure
+- Git
+- GitHub
+- Linux
+
+### 📂 Featured Projects
+
+🔹 **Data Analytics Projects**
+- Excel Data Analysis & Dashboard Projects
+- SQL Data Analysis Projects
+- Power BI Interactive Dashboards
+- Python Data Analysis & EDA Projects
+
+🔹 **Cloud Computing Projects**
+- AWS Static Website Deployment using Amazon S3
+- Azure Web Application Deployment
+
+###  Career Goal
+
+I'm currently looking for **Data Analyst, Junior Data Analyst, Data Analytics Intern, and related entry-level opportunities** where I can apply my analytical and technical skills to solve real-world business problems.
+
+###  Connect With Me
+
+- 💼 LinkedIn: [Mithun N](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+
+---
+
+⭐ Feel free to explore my repositories and projects!
